@@ -8,4 +8,5 @@ cara penggunaan
 
 install git terlebih dahulu
 lalu git clone repositori ini + cd kedlam folder
+> git clone https://github.com/Prof-Claret/Ionic-Fixed-.git
 npm install
